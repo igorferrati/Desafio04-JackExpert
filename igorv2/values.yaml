@@ -1,0 +1,19 @@
+# Values Namespace
+namespace:
+  name: igor-ferrati-helm
+
+
+# Values Deployment
+deployment:
+  name: igor-ferrati
+  nameapp: igor
+
+
+# Values Service
+service:
+  name: teste-igor
+
+
+# Values Ingress
+ingress:
+  name: igor
